@@ -1,0 +1,15 @@
+{
+    "architecture": "all",
+    "description": "description of TrafficLight",
+    "framework": "ubuntu-sdk-14.10",
+    "hooks": {
+        "light": {
+            "apparmor": "light.json",
+            "desktop": "light.desktop"
+        }
+    },
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "name": "com.ubuntu.developer.liu-xiao-guo.trafficlight",
+    "title": "TrafficLight",
+    "version": "0.1"
+}
